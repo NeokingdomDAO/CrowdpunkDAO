@@ -2,7 +2,7 @@
  * @type{import('./lib/internal/types').DAOConfig}
  */
 const config = {
-  multisigAddress: "0x54EE31E70A30449a87f9e395DE1D9269602FB7D0",
+  multisigAddress: "0x0050CBd6570948aE53E272995D5Cf6aF29340BbD",
   shareCapital: "10000000000000000000000",
   tokenName: "Crowdpunk DAO",
   tokenSymbol: "CROWDP",
@@ -10,9 +10,9 @@ const config = {
   governanceTokenSymbol: "CROWDPGOV",
   shareTokenName: "Crowdpunk DAO Share",
   shareTokenSymbol: "CROWDPSHARE",
-  reserveAddress: "0x54EE31E70A30449a87f9e395DE1D9269602FB7D0",
-  usdcAddress: "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
-  diaOracleAddress: "0x3141274e597116f0bfcf07aeafa81b6b39c94325",
+  reserveAddress: "0x0050CBd6570948aE53E272995D5Cf6aF29340BbD",
+  usdcAddress: "0x...",
+  diaOracleAddress: "0x...",
   contributors: [
     {
       address: "0x0a0c93d0f0553ebf7b7bea31be6fc65e38cc9b6e",

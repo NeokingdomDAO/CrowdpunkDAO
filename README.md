@@ -1,8 +1,17 @@
-![Test workflow](https://github.com/NeokingdomDAO/whitelabel/actions/workflows/node.yml/badge.svg)
+# Crowdpunk DAO Contracts
 
-# Neokingdom DAO Contracts
+Welcome to the Crowdpunk DAO Contacts.
 
-Welcome to the Neokingdom DAO Contacts.
+## Smart Contracts
+
+- [DAORoles](https://escan.live/address/0x1e3568bd73838379AE1aF5bD7649cac4Ab9801b0) `0x1e3568bd73838379AE1aF5bD7649cac4Ab9801b0`
+- [Voting](https://escan.live/address/0x605Ae151E234D5A4427864E5D47af27D2659b5BD) `0x605Ae151E234D5A4427864E5D47af27D2659b5BD`
+- [GovernanceToken](https://escan.live/address/0x8106497B7D734eBC9b3d7E7901F849B1e804Eea9) `0x8106497B7D734eBC9b3d7E7901F849B1e804Eea9`
+- [NeokingdomToken](https://escan.live/address/0x2135782Cfb96bd51Fdc0dA0c6227F12fDAC9df4f) `0x2135782Cfb96bd51Fdc0dA0c6227F12fDAC9df4f`
+- [RedemptionController](https://escan.live/address/0xfC9CDBb0F6B5b6eeC54188Cc74893fF6722Eb55A) `0xfC9CDBb0F6B5b6eeC54188Cc74893fF6722Eb55A`
+- [InternalMarket](https://escan.live/address/0x94AE3F76BB662444F69bBd0769AA3D8CC7C02b40) `0x94AE3F76BB662444F69bBd0769AA3D8CC7C02b40`
+- [ShareholderRegistry](https://escan.live/address/0x83803be75e1C54bd0126B74AA896DEb54EB1D748) `0x83803be75e1C54bd0126B74AA896DEb54EB1D748`
+- [ResolutionManager](https://escan.live/address/0xcb42573c96A22e08Efa22394De80e18Ff2D69364) `0xcb42573c96A22e08Efa22394De80e18Ff2D69364`
 
 ## Documentation
 
