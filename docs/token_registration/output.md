@@ -1,0 +1,2 @@
+- Proposal https://www.mintscan.io/evmos/proposals/269/
+- Proposal tx hash: https://www.mintscan.io/evmos/tx/6EDE391A500F5896497ABDC139F95B9ADB3633D9262809F6039B321AB7013BB2/?height=18540012
